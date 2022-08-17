@@ -1,7 +1,7 @@
 {
-    "token": "bot token",
-    "prefix": "bot prefix",
-    "mongo": "mongoUrl",
-    "id": "bot owner id",
-    "emoji": "Discord emoji id"
+    "token": "Nzk4NDI2MzQwNzM0MjcxNDg4.GyErE2.pOpoiIY1CPcBnnl1UGPFhFqPCdP3YBeq7gDg-4",
+    "prefix": "c+",
+    "mongo": "mongodb+srv://mapxor:mapxor@cluster0.qbz1mvz.mongodb.net/?retryWrites=true&w=majority",
+    "id": "743887896481628190",
+    "emoji": "💀"
 }
